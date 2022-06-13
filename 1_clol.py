@@ -9,4 +9,4 @@ print(res.text)
 ## delete : 삭제
 
 ### GET / HTML1.1
-### Host : https://www.naver.com/
+### Host : https://www.naver.com/ 
